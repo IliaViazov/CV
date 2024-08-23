@@ -1,16 +1,15 @@
 # Ilia Viazov // composer and sound-artist
 
-<div>![Circle Crop IMG 4880-min.png](Ilia%20Viazov%20composer%20and%20sound-artist%206e80cc06e5254374bc9869e5fb8a4f9b/Circle_Crop_IMG_4880-min.png)
+<div>![Circle Crop IMG 4880-min.png](Ilia%20Viazov%20composer%20and%20sound-artist%206e80cc06e5254374bc9869e5fb8a4f9b/Circle_Crop_IMG_4880-min.png)</div>
 
 | Address | Germany, Lübeck, 23562, Anschützstraße 7A, 304 |
-| --- | --- |
 | Citizenship | Russia (citizen), Germany (resident) |
 | Phone | +491748904929 ; +79999823251 |
 | Telegram | [@ilya_composer](http://t.me/ilya_composer) |
 | E-mail | iliaviazov@gmail.com, ilia.viazov@stud.mh-luebeck.de |
 | YouTube | [link](https://www.youtube.com/channel/UCxRh8bEg2bSJ1_iSznb75CA) |
 | Soundcloud | [link](https://soundcloud.com/ilya-vyazov?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing) |
-</div>
+
 ### ☄️ [Link to portfolio](https://www.notion.so/Ilia-Viazov-composer-and-sound-artist-6e80cc06e5254374bc9869e5fb8a4f9b?pvs=21)
 
 ---
@@ -44,7 +43,6 @@ I try to imagine the fragility, purity, and loveliness of a musical tone. I perc
 ### Skills
 
 | **Instruments** | All kinds of whistle-type flutes, Synthesizers, Objects, DIY |
-| --- | --- |
 | **Audio** | Reaper, Ableton Live, Pure Data, Max 8, Jitter, gen~, RNBO, SuperCollider, Modalys |
 | **Software** | Python (basic), JS (basic), Sibelius, Finale, Graphics editing for music notation, Video editing |
 | **Other** | Concert sound engineering, Soldering electrical components, Making DIY instruments |
@@ -52,7 +50,6 @@ I try to imagine the fragility, purity, and loveliness of a musical tone. I perc
 ### Language
 
 | **Russian** | Native |
-| --- | --- |
 | **English** | Upper-Intermediate (B2) |
 | **German** | Upper-Intermediate (B2) |
 
