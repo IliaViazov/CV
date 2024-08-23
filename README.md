@@ -40,7 +40,7 @@ I try to imagine the fragility, purity, and loveliness of a musical tone. I perc
 
 ### Skills
 
-| **Instruments** | All kinds of whistle-type flutes, Synthesizers, Objects, DIY |
+| **Instruments** | Whistle-flutes, Synthesizers, Objects, DIY |
 | **Audio** | Reaper, Ableton Live, Pure Data, Max 8, Jitter, gen~, RNBO, SuperCollider, Modalys |
 | **Software** | Python (basic), JS (basic), Sibelius, Finale, Graphics editing for music notation, Video editing |
 | **Other** | Concert sound engineering, Soldering electrical components, Making DIY instruments |
