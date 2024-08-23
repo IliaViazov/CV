@@ -8,7 +8,7 @@
 | **YouTube** | [link](https://www.youtube.com/channel/UCxRh8bEg2bSJ1_iSznb75CA) |
 | **Soundcloud** | [link](https://soundcloud.com/ilya-vyazov?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing) |
 
-### ☄️ [Link to portfolio](https://www.notion.so/Ilia-Viazov-composer-and-sound-artist-6e80cc06e5254374bc9869e5fb8a4f9b?pvs=21)
+### [Activities]() [Works]() 
 
 ---
 
