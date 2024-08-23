@@ -13,7 +13,7 @@
 ---
 
 ### General
-<details>
+
 Composer, sound-artist, performer.
 
 Born in Voronezh, Russia in 1999.
@@ -23,19 +23,19 @@ When I reached age of 16, I’ve started my professional musical education in Vo
 Since the actions of the Russian government and the war with Ukraine, I was forced to depart my homeland for conscience and life safety in October 2022. Starting from the end of 2022 to the beginning of 2024, I’ve lived and worked in Yerevan as a school teacher of music and a tutor for kids with autism spectrum disorder.
 
 I left Moscow conservatory and study right now as a Bachelor in Musikhochshule Lübeck with Marisol Jiménez
-</details>
+
 ### Artistic statement
-<details>
+
 Usually, in the vast majority of my works, I try to express interpretations and conclusions of my life experience. I should be honest, that I’m fairly sensitive and emotional person, that reflex and recycle these feelings inside of me, which fact, of course, affects on my art. That’s why, most of them are sensed very often a little romantic style. But also it’s a reason of choosing some themes of my works. I try to be honest and true with me and my audience and to avoid any sense of lie and unfair in a musical expression and appearance, which sometimes gives me a result of “non-contemporary” sound.
 
 I try to imagine the fragility, purity, and loveliness of a musical tone. I perceive it like something in the space of matter, but very subtle and difficult to reach. For me the sound has own structure, texture, color, position, and fluidity. This fragility of the sound leads me to the process of very careful working with it, every time trying to not change anything, if it’s possible. Anyway, it doesn’t mean that I don’t transform sound at all. Sometimes my investigation to the sound produce some result of “natural” alternative and contrast. Inside the sound you can find not only its zoomed perspective, but also a mirror and a negative. “Simplicity” of your work methods is the key to interesting results and inartificial complexity.
-</details>
+
 ### Honors
-<details>
+
 - **Performed by:** Lund Contemporary Festival (Sweden), Bashmet Youth Symphony Orchestra, Studio for New Music Ensemble, Moscow Contemporary Music Ensemble, Ensemble of Russian folk instruments "Russia”, soloists of Musica Aeterna, musicians of Lübeck Philharmonic Orchestra
 - My anti-war installation [**“Nursery”**](https://youtu.be/kzFQqdl6KeU) was presented in “GROUND Solyanka” Gallery in Moscow
 - **Winner:** International Competition/Laboratory "Open Space" ([Gran Prix](https://soundcloud.com/ilya-vyazov/arabidopsis-thaliana-for-keyboard-psaltery-and-ensemble-of-russian-folk-instruments?si=363f562721be4252abfe491cedf1857f&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing)), MCME Call for Scores, Musica Aeterna soloists Call for scores, [Score Follower Call for scores](https://youtu.be/pYCu6mCMjS0?si=rD4_0kzWmsfprVUu).
-</details>
+
 ---
 
 ### Skills
