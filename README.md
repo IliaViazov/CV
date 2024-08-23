@@ -1,15 +1,15 @@
 # Ilia Viazov // composer and sound-artist
 
-<div>![Circle Crop IMG 4880-min.png](Ilia%20Viazov%20composer%20and%20sound-artist%206e80cc06e5254374bc9869e5fb8a4f9b/Circle_Crop_IMG_4880-min.png)</div>
-
-| Address | Germany, Lübeck, 23562, Anschützstraße 7A, 304 |
-| Citizenship | Russia (citizen), Germany (resident) |
-| Phone | +491748904929 ; +79999823251 |
-| Telegram | [@ilya_composer](http://t.me/ilya_composer) |
-| E-mail | iliaviazov@gmail.com, ilia.viazov@stud.mh-luebeck.de |
-| YouTube | [link](https://www.youtube.com/channel/UCxRh8bEg2bSJ1_iSznb75CA) |
-| Soundcloud | [link](https://soundcloud.com/ilya-vyazov?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing) |
-
+|![Circle Crop IMG 4880-min.png](Ilia%20Viazov%20composer%20and%20sound-artist%206e80cc06e5254374bc9869e5fb8a4f9b/Circle_Crop_IMG_4880-min.png)
+|
+| **Address** | Germany, Lübeck, 23562, Anschützstraße 7A, 304 |
+| **Citizenship** | Russia (citizen), Germany (resident) |
+| **Phone** | +491748904929 ; +79999823251 |
+| **Telegram** | [@ilya_composer](http://t.me/ilya_composer) |
+| **E-mail** | iliaviazov@gmail.com, ilia.viazov@stud.mh-luebeck.de |
+| **YouTube** | [link](https://www.youtube.com/channel/UCxRh8bEg2bSJ1_iSznb75CA) |
+| **Soundcloud** | [link](https://soundcloud.com/ilya-vyazov?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing) |
+|
 ### ☄️ [Link to portfolio](https://www.notion.so/Ilia-Viazov-composer-and-sound-artist-6e80cc06e5254374bc9869e5fb8a4f9b?pvs=21)
 
 ---
