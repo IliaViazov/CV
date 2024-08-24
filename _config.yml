@@ -6,3 +6,5 @@ theme: jekyll-theme-minimal
 
 plugins:
   - jekyll-seo-tag # Add SEO plugin
+background:
+  color: green
