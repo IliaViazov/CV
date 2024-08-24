@@ -51,7 +51,6 @@ I try to imagine the fragility, purity, and loveliness of a musical tone. I perc
 | **English** | Upper-Intermediate (B2) |
 | **German** | Upper-Intermediate (B2) |
 
----
 
 ### Education
 
