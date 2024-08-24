@@ -2,8 +2,8 @@
 
 - **06/2024 —** “Hard to Talk! June Edition” in PAS-Gallery. Berlin, Germany. Performer (bass-recorder, tenor-recorder, DIY-synth)
     - 23/06. Improvisation set. Ilia Viazov - recorder, DIY-synth, Nikita Proshkin - prepared piano, synths, Marisol Jiménez - noise spring machines, tocante synth
-- **06/2024 — Telematic Music Network. Abschlusskonzert. Performer (bass recorder, live-coding)**
-    - 1**7/06.** [Concert-presentation of Telematic Music Network Seminar](https://www.youtube.com/watch?v=RblcmK6CEfU). (I’ve [crashed the server](https://youtu.be/RblcmK6CEfU?si=memZnuwJ4IJ6sEN5&t=3250) in first two minutes).
+- **06/2024** — Telematic Music Network. Abschlusskonzert. Performer (bass recorder, live-coding)
+    - **17/06.** [Concert-presentation of Telematic Music Network Seminar](https://www.youtube.com/watch?v=RblcmK6CEfU). (I’ve [crashed the server](https://youtu.be/RblcmK6CEfU?si=memZnuwJ4IJ6sEN5&t=3250) in first two minutes).
 - **06/2024** — next_generation X. Karlsruhe, Germany. Participant, performer.
     - Performance as a member of Instrument Builders Ensemble of MHL. DIY-synth “un helado por favor”
     - Participating in lessons
