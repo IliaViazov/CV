@@ -1,1 +1,1 @@
-iliaviazov.github.io/CV
+http://www.iliaviazov.github.io/CV
