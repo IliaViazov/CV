@@ -6,7 +6,7 @@
 - i wish it wasn't you (2024) — 2 flutes, 1 oboe, 1 bassoon, 2 horns, 2 trumpets, 1 harpsichord, 1 violin, 1 viola, 1 cello, 1 double bass
   - [Recording](https://soundcloud.com/ilya-vyazov/i-wish-it-wasnt-you?si=37b0b31c1af24633a51840ee0a057407&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing)
 - uproot (2024) — tenor recorder
-  - documentation soon 
+  - [Recording](https://on.soundcloud.com/bZxwQQk18A7m96Ss6) 
 - blutroter Sonnenuntergang und unheimliche Stille (2023) — accordion
   - [Recording](https://soundcloud.com/ilya-vyazov/blutroter-sonnenuntergang-und-unheimliche-stille?si=3e10c69b30d34604b709b0c7ac2cbd9c&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing)
   - [Score Video](https://scorefol.io/w/clzwk0yfj00013lkx2vmkvzix)
@@ -33,6 +33,7 @@
   - Video (rev. 2024), soon
     
 ### Pure electronics and installations
+- Tuberose (2024) — Audio installation
 - project “tapeworms” (*2024)
   - [Soundcloud](https://soundcloud.com/mhl_tapeworms?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing)
 - tanz mal, ich komme bald (2024) — audiovisual self-interactive installation
