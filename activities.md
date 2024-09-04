@@ -7,7 +7,7 @@
     - Presentation about development of embedded synthesizers using Bela controller
 - **06/10/2024-10/10/2024** — Festival "Nordische Filmtage", Lübeck, Germany.
     - Performance of _spect(e)r(um) for feedback bass-recorder, live-electronics and video.
-- **08/10/2024** — Festival of nise music at Art University, Kiel, Germany.
+- **08/10/2024** — Festival of noise music at Art University, Kiel, Germany.
     - Performance of _spect(e)r(um) for feedback bass-recorder, live-electronics and video.
 
 ### Archive
