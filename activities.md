@@ -3,9 +3,12 @@
 ### Current and upcoming
 - **14/09/2024-01/03/2025** — Thomas Mann "Der Zauberberg" Ausstellung. St. Annen-Museum, Lübeck, Germany.
     - Audio installation "Tuberose".
-- **05/10/2024-09/10/2024** — Presentation about development of embedded synthesizers using Bela controller. International Scientific Conference of Moscow Centre for Electroacoustic Music. Moscow, Russia. 
-- **06/10/2024-10/10/2024** — Performance of _spect(e)r(um) for feedback bass-recorder, live-electronics and video. Festival "Nordische Filmtage", Lübeck, Germany.
-- **08/10/2024** — Performance of _spect(e)r(um) for feedback bass-recorder, live-electronics and video. Festival of nise music at Art University, Kiel, Germany.
+- **05/10/2024-09/10/2024** — International Scientific Conference of Centre for Electroacoustic Music of Moscow Conservatory. Moscow, Russia.
+    - Presentation about development of embedded synthesizers using Bela controller
+- **06/10/2024-10/10/2024** — Festival "Nordische Filmtage", Lübeck, Germany.
+    - Performance of _spect(e)r(um) for feedback bass-recorder, live-electronics and video.
+- **08/10/2024** — Festival of nise music at Art University, Kiel, Germany.
+    - Performance of _spect(e)r(um) for feedback bass-recorder, live-electronics and video.
 
 ### Archive
 - **06/2024** — “Hard to Talk! June Edition” in PAS-Gallery. Berlin, Germany. Performer (bass-recorder, tenor-recorder, DIY-synth)
