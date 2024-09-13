@@ -4,7 +4,7 @@
 | **Citizenship** | Russia (citizen), Germany (resident) |
 | **Phone** | +491748904929 ; +79999823251 |
 | **Telegram** | [@ilya_composer](http://t.me/ilya_composer) |
-| **E-mail** | iliaviazov@gmail.com, ilia.viazov@stud.mh-luebeck.de |
+| **E-mail** | [iliaviazov@gmail.com](mailto:iliaviazov@gmail.com), [ilia.viazov@stud.mh-luebeck.de](mailto:ilia.viazov@stud.mh-luebeck.de) |
 | **YouTube** | [link](https://www.youtube.com/channel/UCxRh8bEg2bSJ1_iSznb75CA) |
 | **Soundcloud** | [link](https://soundcloud.com/ilya-vyazov?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing) |
 
