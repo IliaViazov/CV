@@ -45,7 +45,7 @@
     
 ### DIY, Synths and Interactive Systems
 - un helado por favor (2024) — DIY-synth. Bela-controller, RNBO, Gen~
-  - documentation soon
+  - [Video](https://youtu.be/s-Z9TrszJ_4)
 - i have a crush (2024) — physical modelling synthesizer. Max/MSP, Modalys.
   - documentation soon
 - _spect(e)r(um) (2024) — feedback recorder, live-electronics, live-video
