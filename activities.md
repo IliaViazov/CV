@@ -11,6 +11,10 @@
     - Performance of _spect(e)r(um) for feedback bass-recorder, live-electronics and video.
 
 ### Archive
+- **07/2024** — Concert in the framework of the festival "Lübecker Orgelsommer".
+    - **11/07** — Performance of "i wish it wasn't you" for 13 performers. Performers: musicians of Lübecker Philharmonisches Orchester.
+- **07/2024** — Klassendabend der Kompositionsabteilung und der Abteilung der digitalen Kreation.
+    - **04/07** — Performance of "_spect(e)r(um)" for feedback bass recorder, electronics and video. Performance of "uproot" for tenor recorder. Performance of "inside/outside" for tin-whistle and electronics. Performance as a member of Instrument Builders Ensemble of Musikhochschule.
 - **06/2024** — “Hard to Talk! June Edition” in PAS-Gallery. Berlin, Germany. Performer (bass-recorder, tenor-recorder, DIY-synth)
     - **23/06.** Improvisation set. Ilia Viazov - recorder, DIY-synth, Nikita Proshkin - prepared piano, synths, Marisol Jiménez - noise spring machines, tocante synth
 - **06/2024** — Telematic Music Network. Abschlusskonzert. Performer (bass recorder, live-coding)
