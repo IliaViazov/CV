@@ -11,6 +11,8 @@
     - Performance of _spect(e)r(um) for feedback bass-recorder, live-electronics and video.
 
 ### Archive
+- **10/2024** - Concert "Passing (on) aesthetics". Musikhochschule Lübeck, Großer Saal.
+    - **27/10** - Performance of Jonas Baes' "Patangis Buwaya". Ilia Viazov — bass recorder, Clara Wigger — contrabass clarinet, Wiebke Riebesahl — contrabassoon.
 - **07/2024** — Concert in the framework of the festival "Lübecker Orgelsommer".
     - **11/07** — Performance of "i wish it wasn't you" for 13 performers. Performers: musicians of Lübecker Philharmonisches Orchester.
 - **07/2024** — Klassendabend der Kompositionsabteilung und der Abteilung der digitalen Kreation.
