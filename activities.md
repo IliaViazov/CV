@@ -1,18 +1,30 @@
 ## Activities
 
 ### Current and upcoming
+<!-- * Marisol Leipzig
+* Possehl
+* Klassenabend
+* Sax Quintet -->
 - **14/09/2024-01/03/2025** — Thomas Mann "Der Zauberberg" Ausstellung. St. Annen-Museum, Lübeck, Germany.
     - Audio installation "Tuberose".
-- **05/10/2024-09/10/2024** — International Scientific Conference of Centre for Electroacoustic Music of Moscow Conservatory. Moscow, Russia.
-    - Presentation about development of embedded synthesizers using Bela controller
-- **06/10/2024-10/10/2024** — Festival "Nordische Filmtage", Lübeck, Germany.
-    - Performance of _spect(e)r(um) for feedback bass-recorder, live-electronics and video.
-- **08/10/2024** — Festival of noise music at Art University, Kiel, Germany.
-    - Performance of _spect(e)r(um) for feedback bass-recorder, live-electronics and video.
 
 ### Archive
+- **12/2024** — KOMMAS Ensemble. Leipzig, Germany.
+    - **10/12** — Technical assistance by the performance.
+- **11/2024** — Audiovisionen: TRAVERSE. Marisol Jiménez / Korhan Erel / Adam Pultz Melbye. Berlin, Germany.
+    - **21/11** — Technical assistance by the performance.
+- **11/2024** — International Scientific Conference of Centre for Electroacoustic Music of Moscow Conservatory. Moscow, Russia.
+    - **09/11** — Presentation about development of embedded synthesizers using Bela controller
+- **11/2024** — Festival of noise music at Art University, Kiel, Germany.
+    - **08/11** — Performance of _spect(e)r(um) for feedback bass-recorder, live-electronics and video.
+- **11/2024** — Festival "Nordische Filmtage", Lübeck, Germany.
+    - **05/11** — Performance of _spect(e)r(um) for feedback bass-recorder, live-electronics and video in the dome. Performance as a member of Instrument Builders Ensemble with [Lillevan](https://www.lillevan.com/). 
 - **10/2024** - Concert "Passing (on) aesthetics". Musikhochschule Lübeck, Großer Saal.
     - **27/10** - Performance of Jonas Baes' "Patangis Buwaya". Ilia Viazov — bass recorder, Clara Wigger — contrabass clarinet, Wiebke Riebesahl — contrabassoon.
+- **10/2024** - Transsonic. Viola Yip and Nicola Hein. Tanzhalle Wiesenburg Berlin.
+    - **11/10-12/10** — Technical assistance by the performance.
+- **07/2024** — "Heroines of the Sound" Festival. Radialsystem, Berlin, Germany.
+    - **13/07** — Technical assistance by the performance of PHØNIX16 and Marisol Jiménez.
 - **07/2024** — Concert in the framework of the festival "Lübecker Orgelsommer".
     - **11/07** — Performance of "i wish it wasn't you" for 13 performers. Performers: musicians of Lübecker Philharmonisches Orchester.
 - **07/2024** — Klassendabend der Kompositionsabteilung und der Abteilung der digitalen Kreation.
