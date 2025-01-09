@@ -9,6 +9,12 @@
     - Audio installation "Tuberose".
 
 ### Archive
+- **01/2025** — Klassendabend der Kompositionsabteilung und der Abteilung der digitalen Kreation
+    - **18/01** — Performance of "external operator" for 3 performers with electronics. Performance of "Marbles" for bass clarinet. Performance as a member of Instrument Builders Ensemble of Musikhochschule.
+    - Performers: Ilia Viazov, Paulina Andrzejak, Diego Alejandro Morales Castillo; Clara Wigger.
+- **01/2025** — OPEN SPACE - Possehlpreis für aktuelle musikalische Aufführungskonzerte 2025.
+    - **10/01** — Performance of "external operator" for 3 performers with electronics.
+    - Performers: Ilia Viazov, Paulina Andrzejak, Diego Alejandro Morales Castillo.
 - **12/2024** — KOMMAS Ensemble. Leipzig, Germany.
     - **10/12** — Technical assistance by the performance.
 - **11/2024** — Audiovisionen: TRAVERSE. Marisol Jiménez / Korhan Erel / Adam Pultz Melbye. Berlin, Germany.

@@ -1,7 +1,9 @@
 # List of works
 
 ### Acoustic
-- zameret’ (2024)— organ
+- Marbles (2025) — bass clarinet
+  - documentation soon
+- zameret’ (2024) — organ
   - documentation soon
 - i wish it wasn't you (2024) — 2 flutes, 1 oboe, 1 bassoon, 2 horns, 2 trumpets, 1 harpsichord, 1 violin, 1 viola, 1 cello, 1 double bass
   - [Recording](https://soundcloud.com/ilya-vyazov/i-wish-it-wasnt-you?si=37b0b31c1af24633a51840ee0a057407&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing)
@@ -20,6 +22,8 @@
   - [2nd Version Video](https://youtu.be/bBbLD4vVJjQ)
     
 ### Instruments with electronics/multimedia
+- external operator (2025) — 3 performers, diy-objects, electronics
+  - documentation soon.
 - _spect(e)r(um) (2024) — feedback recorder, live-electronics, live-video
   - [Video](https://youtu.be/1LtMkUAUPd4)
 - Direct speech (2023) – Piano, 2 Violins, Viola, Cello, Double Bass and Electronics
@@ -34,6 +38,7 @@
     
 ### Pure electronics and installations
 - Tuberose (2024) — Audio installation
+  - documentation soon
 - project “tapeworms” (*2024)
   - [Soundcloud](https://soundcloud.com/mhl_tapeworms?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing)
 - tanz mal, ich komme bald (2024) — audiovisual self-interactive installation
@@ -43,10 +48,13 @@
 - Nursery (2022) — Installation
   - [Documentation](https://www.youtube.com/watch?v=kzFQqdl6KeU)
     
-### DIY, Synths and Interactive Systems
+### DIY, Instruments, Synths and Independent Systems.
+- 
 - un helado por favor (2024) — DIY-synth. Bela-controller, RNBO, Gen~
   - [Video](https://youtu.be/s-Z9TrszJ_4)
 - i have a crush (2024) — physical modelling synthesizer. Max/MSP, Modalys.
   - documentation soon
-- _spect(e)r(um) (2024) — feedback recorder, live-electronics, live-video
+- feedback recorder — bass recorder, transducer, microphone and Max/MSP.
   - [Video](https://youtu.be/1LtMkUAUPd4)
+- instruments for "external operator" — shitty organ pipe, barrel for BBQ, microphones and transducers, LED-Stripes, Illuminator by SOMA (for controlling lights), Max/MSP, Ableton.
+  - documentation soon
