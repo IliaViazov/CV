@@ -22,7 +22,7 @@ When I reached age of 16, I’ve started my professional musical education in Vo
 
 Since the actions of the Russian government and the war with Ukraine, I was forced to depart my homeland for conscience and life safety in October 2022. Starting from the end of 2022 to the beginning of 2024, I’ve lived and worked in Yerevan as a school teacher of music and a tutor for kids with autism spectrum disorder.
 
-I left Moscow conservatory and study right now as a Bachelor in Musikhochshule Lübeck with Marisol Jiménez
+Then I moved to Germany in 2024 and continued my Bachelor Studies in Musikhochschule Lübeck with Katharina Rosenberger, and with Marisol Jiménez after.
 
 ## Artistic statement
 

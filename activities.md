@@ -5,6 +5,7 @@
 * Possehl
 * Klassenabend
 * Sax Quintet -->
+- **09/2025** — Ars Electronica. Linz, Austria. Performance of "external operator" for 3 performers.
 - **14/09/2024-01/03/2025** — Thomas Mann "Der Zauberberg" Ausstellung. St. Annen-Museum, Lübeck, Germany.
     - Audio installation "Tuberose".
 
@@ -12,7 +13,7 @@
 - **01/2025** — Klassendabend der Kompositionsabteilung und der Abteilung der digitalen Kreation
     - **18/01** — Performance of "external operator" for 3 performers with electronics. Performance of "Marbles" for bass clarinet. Performance as a member of Instrument Builders Ensemble of Musikhochschule.
     - Performers: Ilia Viazov, Paulina Andrzejak, Diego Alejandro Morales Castillo; Clara Wigger.
-- **01/2025** — OPEN SPACE - Possehlpreis für aktuelle musikalische Aufführungskonzerte 2025.
+- **01/2025** — OPEN SPACE - Possehlpreis für aktuelle musikalische Aufführungskonzerte 2025 1st Prize.
     - **10/01** — Performance of "external operator" for 3 performers with electronics.
     - Performers: Ilia Viazov, Paulina Andrzejak, Diego Alejandro Morales Castillo.
 - **12/2024** — KOMMAS Ensemble. Leipzig, Germany.
