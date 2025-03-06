@@ -5,16 +5,18 @@
 * Possehl
 * Klassenabend
 * Sax Quintet -->
+
+- **26/03/2025** — Workshop ["Music with Microcontrollers"](https://dlc.sh/lernangebot/614). Digital Learning Campus, Lübeck, Germany.
+- **04/2025** — Performnace with Decoder Ensemble of my new piece. Lübeck, Germany
+- **05/2025** — Brahms-Festival. Performance of "a little tremulously" for clarinet, violin and cello in a new revision. Lübeck, Germany.
 - **09/2025** — Ars Electronica. Linz, Austria. Performance of "external operator" for 3 performers.
-- **14/09/2024-01/03/2025** — Thomas Mann "Der Zauberberg" Ausstellung. St. Annen-Museum, Lübeck, Germany.
-    - Audio installation "Tuberose".
 
 ### Archive
 - **01/2025** — Klassendabend der Kompositionsabteilung und der Abteilung der digitalen Kreation
     - **18/01** — Performance of "external operator" for 3 performers with electronics. Performance of "Marbles" for bass clarinet. Performance as a member of Instrument Builders Ensemble of Musikhochschule.
-    - Performers: Ilia Viazov, Paulina Andrzejak, Diego Alejandro Morales Castillo; Clara Wigger.
+- Performers: Ilia Viazov, Paulina Andrzejak, Diego Alejandro Morales Castillo; Clara Wigger.
 - **01/2025** — OPEN SPACE - Possehlpreis für aktuelle musikalische Aufführungskonzerte 2025 1st Prize.
-    - **10/01** — Performance of "external operator" for 3 performers with electronics.
+    - **10/01-11/01** — Performance of "external operator" for 3 performers with electronics.
     - Performers: Ilia Viazov, Paulina Andrzejak, Diego Alejandro Morales Castillo.
 - **12/2024** — KOMMAS Ensemble. Leipzig, Germany.
     - **10/12** — Technical assistance by the performance.
@@ -30,11 +32,13 @@
     - **27/10** - Performance of Jonas Baes' "Patangis Buwaya". Ilia Viazov — bass recorder, Clara Wigger — contrabass clarinet, Wiebke Riebesahl — contrabassoon.
 - **10/2024** - Transsonic. Viola Yip and Nicola Hein. Tanzhalle Wiesenburg Berlin.
     - **11/10-12/10** — Technical assistance by the performance.
+- **09/2024** — Thomas Mann "Der Zauberberg" Ausstellung. St. Annen-Museum, Lübeck, Germany.
+    - **14/09/2024-01/03/2025** — Audio installation "Tuberose".
 - **07/2024** — "Heroines of the Sound" Festival. Radialsystem, Berlin, Germany.
     - **13/07** — Technical assistance by the performance of PHØNIX16 and Marisol Jiménez.
 - **07/2024** — Concert in the framework of the festival "Lübecker Orgelsommer".
     - **11/07** — Performance of "i wish it wasn't you" for 13 performers. Performers: musicians of Lübecker Philharmonisches Orchester.
-- **07/2024** — Klassendabend der Kompositionsabteilung und der Abteilung der digitalen Kreation.
+- **07/2024** — Klassendabend der Kompositionsabteilung und der Abteilung der digitalen Kreation. Hansemuseum, Lübeck, Germany
     - **04/07** — Performance of "_spect(e)r(um)" for feedback bass recorder, electronics and video. Performance of "uproot" for tenor recorder. Performance of "inside/outside" for tin-whistle and electronics. Performance as a member of Instrument Builders Ensemble of Musikhochschule.
 - **06/2024** — “Hard to Talk! June Edition” in PAS-Gallery. Berlin, Germany. Performer (bass-recorder, tenor-recorder, DIY-synth)
     - **23/06.** Improvisation set. Ilia Viazov - recorder, DIY-synth, Nikita Proshkin - prepared piano, synths, Marisol Jiménez - noise spring machines, tocante synth

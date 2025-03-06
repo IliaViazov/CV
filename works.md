@@ -1,7 +1,7 @@
 # List of works
 
 ### Acoustic
-- Marbles (2025) — bass clarinet
+- marbles (2025) — bass clarinet
   - documentation soon
 - zameret’ (2024) — organ
   - documentation soon
