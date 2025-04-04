@@ -22,6 +22,8 @@
   - [2nd Version Video](https://youtu.be/bBbLD4vVJjQ)
     
 ### Instruments with electronics/multimedia
+- guts (2025) — saxophone quintet (3S-2B), electronics and light
+  - documentation soon.
 - external operator (2025) — 3 performers, diy-objects, electronics
   - documentation soon.
 - _spect(e)r(um) (2024) — feedback recorder, live-electronics, live-video
@@ -49,12 +51,11 @@
   - [Documentation](https://www.youtube.com/watch?v=kzFQqdl6KeU)
     
 ### DIY, Instruments, Synths and Independent Systems.
-- 
 - un helado por favor (2024) — DIY-synth. Bela-controller, RNBO, Gen~
   - [Video](https://youtu.be/s-Z9TrszJ_4)
 - i have a crush (2024) — physical modelling synthesizer. Max/MSP, Modalys.
   - documentation soon
 - feedback recorder — bass recorder, transducer, microphone and Max/MSP.
   - [Video](https://youtu.be/1LtMkUAUPd4)
-- instruments for "external operator" — shitty organ pipe, barrel for BBQ, microphones and transducers, LED-Stripes, Illuminator by SOMA (for controlling lights), Max/MSP, Ableton.
+- instruments for "external operator" — shitty organ pipe, barrel for BBQ, microphones and transducers, LED-Stripes (with Illuminator by SOMA), Max/MSP, Ableton.
   - documentation soon

@@ -35,6 +35,7 @@ I try to imagine the fragility, purity, and loveliness of a musical tone. I perc
 - **Performed by:** Lund Contemporary Festival (Sweden), Bashmet Youth Symphony Orchestra, Studio for New Music Ensemble, Moscow Contemporary Music Ensemble, Ensemble of Russian folk instruments "Russia”, soloists of Musica Aeterna, musicians of Lübeck Philharmonic Orchestra
 - My anti-war installation [**“Nursery”**](https://youtu.be/kzFQqdl6KeU) was presented in “GROUND Solyanka” Gallery in Moscow
 - **Winner:** International Competition/Laboratory "Open Space" ([Gran Prix](https://soundcloud.com/ilya-vyazov/arabidopsis-thaliana-for-keyboard-psaltery-and-ensemble-of-russian-folk-instruments?si=363f562721be4252abfe491cedf1857f&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing)), MCME Call for Scores, Musica Aeterna soloists Call for scores, [Score Follower Call for scores](https://youtu.be/pYCu6mCMjS0?si=rD4_0kzWmsfprVUu).
+- **Scholarships:** DAAD-Stipendium (2024-2025), Stibet I (2024), Scholarship of Moscow Composer's Union (2022). 
 
 ---
 
@@ -42,7 +43,7 @@ I try to imagine the fragility, purity, and loveliness of a musical tone. I perc
 
 | **Instruments** | Whistle-flutes, Synthesizers, Objects, DIY |
 | **Audio** | Reaper, Ableton Live, Pure Data, Max 8, Jitter, gen~, RNBO, SuperCollider, Modalys |
-| **Software** | Python, JS, Github, HTML, CSS, Sibelius, Finale, Graphics editing for music notation, Video editing |
+| **Software** | C/C++ for Embedded Systems, Python, JS, Github, HTML, CSS, Sibelius, Finale, Graphics editing for music notation, Video editing |
 | **Other** | Concert sound engineering, Soldering electrical components, Making DIY instruments |
 
 ### Language
@@ -55,7 +56,7 @@ I try to imagine the fragility, purity, and loveliness of a musical tone. I perc
 ## Education
 
 - **04/2024 - aktuell** - Musikhochshule Lübeck, Deutschland. Komposition und Elektronische Musik (Bachelor).
-    - **Composition —** Marisol Jiménez Becerra
+    - **Composition —** Milica, Djordjevic, Marisol Jiménez Becerra
     - **Electroacoustics —** Nicola Hein**,** Louis Goldford
 - **10/2023 - 03/2024** - Musikhochshule Lübeck, Deutschland. Komposition (Kontaktstudium).
     - **Composition**— Katharina Rosenberger
