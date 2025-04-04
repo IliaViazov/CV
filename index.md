@@ -22,7 +22,7 @@ When I reached age of 16, I’ve started my professional musical education in Vo
 
 Since the actions of the Russian government and the war with Ukraine, I was forced to depart my homeland for conscience and life safety in October 2022. Starting from the end of 2022 to the beginning of 2024, I’ve lived and worked in Yerevan as a school teacher of music and a tutor for kids with autism spectrum disorder.
 
-Then I moved to Germany in 2024 and continued my Bachelor Studies in Musikhochschule Lübeck with Katharina Rosenberger, then with Marisol Jiménez and Milica Djordjevic after.
+Then I moved to Germany in 2024 and continued my Bachelor Studies in Musikhochschule Lübeck, where I'm also working as an assistant by the composition department and a technical assistant by the electronic studio.
 
 <!-- ## Artistic statement
 
@@ -72,7 +72,7 @@ I try to imagine the fragility, purity, and loveliness of a musical tone. I perc
 ## Work experience
 
 - **04/2024 - now**
-    - Assistant by composition department
+    - Assistant by the composition department and technical assistan by the electronic studio
     - Musikhochschule Lübeck, Germany
 - **10/2022 - 02/2024**
     - Tutor and Music Teacher
