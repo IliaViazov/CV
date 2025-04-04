@@ -2,7 +2,7 @@
 
 ### Acoustic
 - marbles (2025) — bass clarinet
-  - documentation soon
+  - [Video](https://youtu.be/BEIZW6gKumM)
 - zameret’ (2024) — organ
   - documentation soon
 - i wish it wasn't you (2024) — 2 flutes, 1 oboe, 1 bassoon, 2 horns, 2 trumpets, 1 harpsichord, 1 violin, 1 viola, 1 cello, 1 double bass
@@ -25,7 +25,7 @@
 - guts (2025) — saxophone quintet (3S-2B), electronics and light
   - documentation soon.
 - external operator (2025) — 3 performers, diy-objects, electronics
-  - documentation soon.
+  - [Video](https://youtu.be/RwIELnvTMyw)
 - _spect(e)r(um) (2024) — feedback recorder, live-electronics, live-video
   - [Video](https://youtu.be/1LtMkUAUPd4)
 - Direct speech (2023) – Piano, 2 Violins, Viola, Cello, Double Bass and Electronics
@@ -53,9 +53,7 @@
 ### DIY, Instruments, Synths and Independent Systems.
 - un helado por favor (2024) — DIY-synth. Bela-controller, RNBO, Gen~
   - [Video](https://youtu.be/s-Z9TrszJ_4)
-- i have a crush (2024) — physical modelling synthesizer. Max/MSP, Modalys.
-  - documentation soon
 - feedback recorder — bass recorder, transducer, microphone and Max/MSP.
   - [Video](https://youtu.be/1LtMkUAUPd4)
 - instruments for "external operator" — shitty organ pipe, barrel for BBQ, microphones and transducers, LED-Stripes (with Illuminator by SOMA), Max/MSP, Ableton.
-  - documentation soon
+  - [Video](https://youtu.be/RwIELnvTMyw)
