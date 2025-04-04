@@ -6,15 +6,20 @@
 * Klassenabend
 * Sax Quintet -->
 
-- **26/03/2025** — Workshop ["Music with Microcontrollers"](https://dlc.sh/lernangebot/614). Digital Learning Campus, Lübeck, Germany.
-- **04/2025** — Performnace with Decoder Ensemble of my new piece. Lübeck, Germany
+- **04/2025** — Performnace with Decoder Ensemble of my new piece. Lübeck, Germany.
+- **04/2025** — Workshop "Music with Microcontrollers für Kinder". DLC, Lübeck, Germany.
 - **05/2025** — Brahms-Festival. Performance of "a little tremulously" for clarinet, violin and cello in a new revision. Lübeck, Germany.
 - **09/2025** — Ars Electronica. Linz, Austria. Performance of "external operator" for 3 performers.
 
 ### Archive
+- **03/2025** — JUMO Open, Competition for young musicians. Hochschule für Musik und Theater, Hamburg, Germany
+    - **30/03** — Performance of "Guts" for saxophone quintet (3A-2B) and live electronics. 
+    - Performers: Ensemble "Passion du Saxophone" of Lübecker Musikschule der Gemeinnützigen (Max-Johannes Thorns, Theodor Suhan Nabers, Jasper Gutzeit, Magnus Zilian, Daniela Melikhova), a/d Lilija Russanowa.
+- **03/2025** — Workshop ["Music with Microcontrollers"](https://dlc.sh/lernangebot/614). Digital Learning Campus, Lübeck, Germany.
+    - **26/03** — Workshop about developing musical interfaces and instruments on the base of Arduino and other microcontrollers, with introduction to the basics of programming in C/C++ and eleictric curcuitry.
 - **01/2025** — Klassendabend der Kompositionsabteilung und der Abteilung der digitalen Kreation
     - **18/01** — Performance of "external operator" for 3 performers with electronics. Performance of "Marbles" for bass clarinet. Performance as a member of Instrument Builders Ensemble of Musikhochschule.
-- Performers: Ilia Viazov, Paulina Andrzejak, Diego Alejandro Morales Castillo; Clara Wigger.
+    - Performers: Ilia Viazov, Paulina Andrzejak, Diego Alejandro Morales Castillo; Clara Wigger.
 - **01/2025** — OPEN SPACE - Possehlpreis für aktuelle musikalische Aufführungskonzerte 2025 1st Prize.
     - **10/01-11/01** — Performance of "external operator" for 3 performers with electronics.
     - Performers: Ilia Viazov, Paulina Andrzejak, Diego Alejandro Morales Castillo.
@@ -24,7 +29,7 @@
     - **21/11** — Technical assistance by the performance.
 - **11/2024** — International Scientific Conference of Centre for Electroacoustic Music of Moscow Conservatory. Moscow, Russia.
     - **09/11** — Presentation about development of embedded synthesizers using Bela controller
-- **11/2024** — Festival of noise music at Art University, Kiel, Germany.
+- **11/2024** — Symposium zum Thema "Raum|Musik". Muthesius Kunsthochschule, Kiel, Germany.
     - **08/11** — Performance of _spect(e)r(um) for feedback bass-recorder, live-electronics and video.
 - **11/2024** — Festival "Nordische Filmtage", Lübeck, Germany.
     - **05/11** — Performance of _spect(e)r(um) for feedback bass-recorder, live-electronics and video in the dome. Performance as a member of Instrument Builders Ensemble with [Lillevan](https://www.lillevan.com/). 
