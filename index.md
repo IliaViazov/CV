@@ -56,8 +56,8 @@ I try to imagine the fragility, purity, and loveliness of a musical tone. I perc
 ## Education
 
 - **04/2024 - aktuell** - Musikhochshule Lübeck, Deutschland. Komposition und Elektronische Musik (Bachelor).
-    - **Composition —** Milica, Djordjevic, Marisol Jiménez Becerra
-    - **Electroacoustics —** Nicola Hein**,** Louis Goldford
+    - **Composition —** Milica, Djordjevic, Marisol Jiménez Becerra, Nicola Hein
+    - **Electroacoustics —** Nicola Hein, Louis Goldford
 - **10/2023 - 03/2024** - Musikhochshule Lübeck, Deutschland. Komposition (Kontaktstudium).
     - **Composition**— Katharina Rosenberger
     - **Electroacoustics**— Nicola Hein, Louis Goldford
