@@ -7,7 +7,7 @@
 * Sax Quintet -->
 
 - **04/2025** — Performnace with Decoder Ensemble of my new piece. Lübeck, Germany.
-- **04/2025** — Workshop "Music with Microcontrollers für Kinder". DLC, Lübeck, Germany.
+- **04/2025** — Workshop ["Music with Microcontrollers für Kinder"](https://dlc.sh/lernangebot/717). DLC, Lübeck, Germany.
 - **05/2025** — Brahms-Festival. Performance of "a little tremulously" for clarinet, violin and cello in a new revision. Lübeck, Germany.
 - **09/2025** — Ars Electronica. Linz, Austria. Performance of "external operator" for 3 performers.
 
