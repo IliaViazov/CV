@@ -29,7 +29,7 @@
     - **21/11** — Technical assistance by the performance.
 - **11/2024** — International Scientific Conference of Centre for Electroacoustic Music of Moscow Conservatory. Moscow, Russia.
     - **09/11** — Presentation about development of embedded synthesizers using Bela controller
-- **11/2024** — Symposium zum Thema "Raum &#124; Musik". Muthesius Kunsthochschule, Kiel, Germany.
+- **11/2024** — Symposium zum Thema "Raum&#124;Musik". Muthesius Kunsthochschule, Kiel, Germany.
     - **08/11** — Performance of _spect(e)r(um) for feedback bass-recorder, live-electronics and video.
 - **11/2024** — Festival "Nordische Filmtage", Lübeck, Germany.
     - **05/11** — Performance of _spect(e)r(um) for feedback bass-recorder, live-electronics and video in the dome. Performance as a member of Instrument Builders Ensemble with [Lillevan](https://www.lillevan.com/). 
