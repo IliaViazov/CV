@@ -9,10 +9,11 @@
 - **04/2025** — Performnace with Decoder Ensemble of my new piece. Lübeck, Germany.
 - **04/2025** — Workshop ["Music with Microcontrollers für Kinder"](https://dlc.sh/lernangebot/717). DLC, Lübeck, Germany.
 - **05/2025** — Brahms-Festival. Performance of "a little tremulously" for clarinet, violin and cello in a new revision. Lübeck, Germany.
+<!-- - **05/2025** — Reinbek JUMO -->
 - **09/2025** — Ars Electronica. Linz, Austria. Performance of "external operator" for 3 performers.
 
 ### Archive
-- **03/2025** — JUMO Open, Competition for young musicians. Hochschule für Musik und Theater, Hamburg, Germany
+- **03/2025** — JUMU Open, Competition for young musicians. Hochschule für Musik und Theater, Hamburg, Germany
     - **30/03** — Performance of "Guts" for saxophone quintet (3A-2B) and live electronics. 
     - Performers: Ensemble "Passion du Saxophone" of Lübecker Musikschule der Gemeinnützigen (Max-Johannes Thorns, Theodor Suhan Nabers, Jasper Gutzeit, Magnus Zilian, Daniela Melikhova), a/d Lilija Russanowa.
 - **03/2025** — Workshop ["Music with Microcontrollers"](https://dlc.sh/lernangebot/614). Digital Learning Campus, Lübeck, Germany.
@@ -23,8 +24,8 @@
 - **01/2025** — OPEN SPACE - Possehlpreis für aktuelle musikalische Aufführungskonzerte 2025 1st Prize.
     - **10/01-11/01** — Performance of "external operator" for 3 performers with electronics.
     - Performers: Ilia Viazov, Paulina Andrzejak, Diego Alejandro Morales Castillo.
-- **12/2024** — KOMMAS Ensemble. Leipzig, Germany.
-    - **10/12** — Technical assistance by the performance.
+<!-- - **12/2024** — KOMMAS Ensemble. Leipzig, Germany.
+    - **10/12** — Technical assistance by the performance. -->
 - **11/2024** — Audiovisionen: TRAVERSE. Marisol Jiménez / Korhan Erel / Adam Pultz Melbye. Berlin, Germany.
     - **21/11** — Technical assistance by the performance.
 - **11/2024** — International Scientific Conference of Centre for Electroacoustic Music of Moscow Conservatory. Moscow, Russia.
