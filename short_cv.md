@@ -27,7 +27,7 @@ Then I moved to Germany in 2024 and continued my Bachelor Studies in Musikhochsc
 - **Invited** to perform **"external operator"** at Ars Electronica 2025 
 - **Performed by:** Lund Contemporary Festival (Sweden), Bashmet Youth Symphony Orchestra, Studio for New Music Ensemble, Moscow Contemporary Music Ensemble, Ensemble of Russian folk instruments "Russia”, soloists of Musica Aeterna, musicians of Lübeck Philharmonic Orchestra
 - My anti-war installation [**“Nursery”**](https://youtu.be/kzFQqdl6KeU) was presented in “GROUND Solyanka” Gallery in Moscow
-- **Winner:** OPEN SPACE Possehlpreis für aktuelle musikalische Aufführungskonzerte 2025, International Competition/Laboratory "Open Space", MCME Call for Scores, Musica Aeterna soloists Call for scores, Score Follower Call for Scores
+- **Winner:** OPEN SPACE Possehlpreis für aktuelle musikalische Aufführungskonzerte 2025, International Competition/Laboratory "Open Space", MCME Call for Scores, Musica Aeterna soloists Call for scores, Score Follower Call for Scores, MHL Kompositionswettbewerb 2025, Kulturfunke Lübeck 2025, platformB Call for scores
 
 ---
 
