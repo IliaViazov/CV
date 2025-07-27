@@ -1,18 +1,33 @@
 ## Activities
 
 ### Current and upcoming
-<!-- * Marisol Leipzig
-* Possehl
-* Klassenabend
-* Sax Quintet -->
-
-- **04/2025** — Performnace with Decoder Ensemble of my new piece. Lübeck, Germany.
-- **04/2025** — Workshop ["Music with Microcontrollers für Kinder"](https://dlc.sh/lernangebot/717). DLC, Lübeck, Germany.
-- **05/2025** — Brahms-Festival. Performance of "a little tremulously" for clarinet, violin and cello in a new revision. Lübeck, Germany.
-<!-- - **05/2025** — Reinbek JUMO -->
+- **19/09/2025** — "external operator". Haus Eden, Lübeck, Germany. 
+- **18/08/2025** — Impro techno set. Solizentrum, Lübeck, Germany.
+- **14/08/2025** — Schupen 6, Lübeck, Germany. Performance of "external operator" for 3 performers.
 - **09/2025** — Ars Electronica. Linz, Austria. Performance of "external operator" for 3 performers.
 
 ### Archive
+- **07/2025-08/2025** — Darmstadt Ferienkurse. Darmstadt, Germany.
+    - Participation in the workshop for flute and percussion as a composer by curating of Marcos Belter.
+    - Open Spaces:
+        - "Chant". Presentation of a new instrument for "external operator" with Rokoko Gloves and nn~.
+        - "Musik with Microcontrollers". Short version of Workshop
+        - Various jam-sessions.
+    - Lessons with: Aaron Nahum-Holloway, Sarah Nemtsov, George Lewis.
+- **07/2025** — Workshop ["Music with Microcontrollers"](https://dlc.sh/lernangebot/614). DLC, Lübeck, Germany.
+    - **15-17/07**. Three day version of the worskhop.
+- **04/07/2025** — Concert "What artists do all the time", presentation of the Artistic Research course. 
+    - Presentation on "Interface Design and what a composer has to do with that". MHL, Kammermusiksaal, Lübeck, Germany.
+- **06/06/2025** — Klassenabend Komposition and Sound Arts and Creative Music Technology. MHL, Großer Saal, Lübeck, Germany.
+    - Performance of "Petros" for stones with applification, "zameret'" for organ by myself.
+    - Performance as a part of Live-Coding Ensemble, Instrument Builders Ensemble.
+- **11/05/2025** — Jugend musiziert Preisträger*innen-Konzerte 2025. Performance of "Guts" for saxophone quintet (3A-2B) and live electronics. 
+    - Performers: Ensemble "Passion du Saxophone" of Lübecker Musikschule der Gemeinnützigen (Max-Johannes Thorns, Theodor Suhan Nabers, Jasper Gutzeit, Magnus Zilian, Daniela Melikhova),
+- **05/2025** — Brahms-Festival.
+    - **07/05** — Concert "La Danse". Performance of "a little tremulously" for clarinet, violin and cello in a new revision. Lübeck, Germany. 
+    - Performers: Maximilian Adler (clarinet), Barbara Rosa Filipe Cotrim (violin), Enni Gomez-Pallete Lorenz (cello)
+- **23/04/2025** — Workshop ["Music with Microcontrollers für Kinder"](https://dlc.sh/lernangebot/717). DLC, Lübeck, Germany.
+- **15/04/2025** — Performance of "stop. again" for Decoder Ensemble. MHL, Lübeck, Germany.
 - **03/2025** — JUMU Open, Competition for young musicians. Hochschule für Musik und Theater, Hamburg, Germany
     - **30/03** — Performance of "Guts" for saxophone quintet (3A-2B) and live electronics. 
     - Performers: Ensemble "Passion du Saxophone" of Lübecker Musikschule der Gemeinnützigen (Max-Johannes Thorns, Theodor Suhan Nabers, Jasper Gutzeit, Magnus Zilian, Daniela Melikhova), a/d Lilija Russanowa.
@@ -24,8 +39,8 @@
 - **01/2025** — OPEN SPACE - Possehlpreis für aktuelle musikalische Aufführungskonzerte 2025 1st Prize.
     - **10/01-11/01** — Performance of "external operator" for 3 performers with electronics.
     - Performers: Ilia Viazov, Paulina Andrzejak, Diego Alejandro Morales Castillo.
-<!-- - **12/2024** — KOMMAS Ensemble. Leipzig, Germany.
-    - **10/12** — Technical assistance by the performance. -->
+- **12/2024** — KOMMAS Ensemble. Leipzig, Germany.
+    - **10/12** — Technical assistance by the performance.
 - **11/2024** — Audiovisionen: TRAVERSE. Marisol Jiménez / Korhan Erel / Adam Pultz Melbye. Berlin, Germany.
     - **21/11** — Technical assistance by the performance.
 - **11/2024** — International Scientific Conference of Centre for Electroacoustic Music of Moscow Conservatory. Moscow, Russia.

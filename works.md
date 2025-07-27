@@ -1,14 +1,19 @@
+<!-- petros, stop again, instruments, zamaret -->
 # List of works
 
 ### Acoustic
+- Petros (2025) — stones, rings and amplification
+  - documentation soon
+- stop. again (2025) — Decoder Ensemble, me and Video.
+  - documentation soon.
 - marbles (2025) — bass clarinet
   - [Video](https://youtu.be/BEIZW6gKumM)
 - zameret’ (2024) — organ
-  - documentation soon
+  - [Video](https://www.youtube.com/watch?v=kDR0jMw2Y9o&list=RDkDR0jMw2Y9o&start_radio=1)
 - i wish it wasn't you (2024) — 2 flutes, 1 oboe, 1 bassoon, 2 horns, 2 trumpets, 1 harpsichord, 1 violin, 1 viola, 1 cello, 1 double bass
   - [Recording](https://soundcloud.com/ilya-vyazov/i-wish-it-wasnt-you?si=37b0b31c1af24633a51840ee0a057407&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing)
 - uproot (2024) — tenor recorder
-  - [Recording](https://on.soundcloud.com/bZxwQQk18A7m96Ss6) 
+  - [Recording](https://on.soundcloud.com/bZxwQQk18A7m96Ss6)
 - blutroter Sonnenuntergang und unheimliche Stille (2023) — accordion
   - [Recording](https://soundcloud.com/ilya-vyazov/blutroter-sonnenuntergang-und-unheimliche-stille?si=3e10c69b30d34604b709b0c7ac2cbd9c&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing)
   - [Score Video](https://scorefol.io/w/clzwk0yfj00013lkx2vmkvzix)
@@ -17,10 +22,9 @@
   - [Score Video](https://youtu.be/pYCu6mCMjS0?si=nTAK0cu092_CP5wc)
 - a little tremulously (2022) — clarinet in B, violin and cello
   - [Video](https://www.youtube.com/watch?v=ZT9cgRqR5U8&feature=youtu.be)
-- airA (2021) — Oboe and Organ (1st version), Oboe and Accordion (2nd version)
-  - [1st Version Video](https://youtu.be/bLCfoirQpag)
-  - [2nd Version Video](https://youtu.be/bBbLD4vVJjQ)
-    
+- airA (2021) — Oboe and Accordion
+  - [Video](https://youtu.be/bBbLD4vVJjQ)
+
 ### Instruments with electronics/multimedia
 - guts (2025) — saxophone quintet (3S-2B), electronics and light
   - documentation soon.
@@ -37,7 +41,7 @@
 - inside/outside (2021, rev. 2024) — amplified tin-whistle and electronics
   - [Video](https://www.youtube.com/watch?v=zvwcfdhO8Eg&feature=youtu.be) (orig. 2021)
   - Video (rev. 2024), soon
-    
+
 ### Pure electronics and installations
 - Tuberose (2024) — Audio installation
   - documentation soon
@@ -49,11 +53,23 @@
   - [Recording](https://soundcloud.com/ilya-vyazov/mrvevn?si=363f562721be4252abfe491cedf1857f&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing)
 - Nursery (2022) — Installation
   - [Documentation](https://www.youtube.com/watch?v=kzFQqdl6KeU)
-    
+
 ### DIY, Instruments, Synths and Independent Systems.
-- un helado por favor (2024) — DIY-synth. Bela-controller, RNBO, Gen~
+- lovely kitty (2025) — DIY-synth. Daisy Seed, PD.
+  - Documentation soon.
+- loaf (2025) — DIY-synth. ESP32, C/C++.
+  - Documentation soon.
+- viola (2025) — Instrument. Viola, capacitive touch sensor, ESP32, C/C++.
+  - Documentation soon.
+- un helado por favor (2024) — DIY-synth. Bela, RNBO, Gen~
   - [Video](https://youtu.be/s-Z9TrszJ_4)
-- feedback recorder — bass recorder, transducer, microphone and Max/MSP.
+- feedback-recorder — bass recorder, transducer, microphone and Max/MSP.
   - [Video](https://youtu.be/1LtMkUAUPd4)
 - instruments for "external operator" — shitty organ pipe, barrel for BBQ, microphones and transducers, LED-Stripes (with Illuminator by SOMA), Max/MSP, Ableton.
   - [Video](https://youtu.be/RwIELnvTMyw)
+
+### Websites, utilities, programs
+- [Spectral Colors](iliaviazov.github.io/spectral-colors).
+  - Website for experiencing and investigating timbres of different instruments.
+- [Oscilloscope Abstraction]().
+  - Github soon.
