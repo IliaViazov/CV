@@ -26,6 +26,8 @@
   - [Video](https://youtu.be/bBbLD4vVJjQ)
 
 ### Instruments with electronics/multimedia
+- 106-11B (2025) — flutes, percussion, electronics.
+  - documentation soon.
 - guts (2025) — saxophone quintet (3S-2B), electronics and light
   - documentation soon.
 - external operator (2025) — 3 performers, diy-objects, electronics
@@ -69,7 +71,10 @@
   - [Video](https://youtu.be/RwIELnvTMyw)
 
 ### Websites, utilities, programs
+- [Die Fraktur der Frakturen]()
+  - Web-based interactive installation
 - [Spectral Colors](iliaviazov.github.io/spectral-colors).
   - Website for experiencing and investigating timbres of different instruments.
 - [Oscilloscope Abstraction]().
   - Github soon.
+- [Vocal Formant Filter VST](https://github.com/IliaViazov/Vocal-Formant-Filter/tree/main)
