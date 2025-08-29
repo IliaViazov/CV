@@ -13,7 +13,7 @@ title: "main"
 | **YouTube** | [link](https://www.youtube.com/channel/UCxRh8bEg2bSJ1_iSznb75CA) |
 | **Soundcloud** | [link](https://soundcloud.com/ilya-vyazov?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing) |
 
-### Links to the recent [Activities](activities.md) and to the [List of works](works.md) 
+### [Activities](activities.md)    [List of works](works.md)    [Materials](materials.md)
 
 ---
 
