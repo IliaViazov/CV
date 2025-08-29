@@ -1,12 +1,17 @@
 ## Activities
 
 ### Current and upcoming
-- **19/09/2025** — "external operator". Haus Eden, Lübeck, Germany. 
+- **19/09/2025** — "external operator". Shuppen 6, Lübeck, Germany. 
 - **18/08/2025** — Impro techno set. Solizentrum, Lübeck, Germany.
-- **14/08/2025** — Schupen 6, Lübeck, Germany. Performance of "external operator" for 3 performers.
-- **09/2025** — Ars Electronica. Linz, Austria. Performance of "external operator" for 3 performers.
+- **14/08/2025** — Haus Eden, Lübeck, Germany. Performance of "external operator" for 3 performers.
+- **06/09/2025** — Ars Electronica. Linz, Austria. Performance of "external operator" for 3 performers.
 
 ### Archive
+<details><summary>2025</summary>
+- **08/2025** — tech.festival 2025. Lübeck, Germany
+    - Assistance by organizing and conducting the workshops
+    - **26/08**. Programmier Dein Instrument.
+    - **27/08**. KI Macht Musik.
 - **07/2025-08/2025** — Darmstadt Ferienkurse. Darmstadt, Germany.
     - Participation in the workshop for flute and percussion as a composer by curating of Marcos Belter.
     - Open Spaces:
@@ -39,6 +44,8 @@
 - **01/2025** — OPEN SPACE - Possehlpreis für aktuelle musikalische Aufführungskonzerte 2025 1st Prize.
     - **10/01-11/01** — Performance of "external operator" for 3 performers with electronics.
     - Performers: Ilia Viazov, Paulina Andrzejak, Diego Alejandro Morales Castillo.
+</details>
+<details><summary>2024</summary>
 - **12/2024** — KOMMAS Ensemble. Leipzig, Germany.
     - **10/12** — Technical assistance by the performance.
 - **11/2024** — Audiovisionen: TRAVERSE. Marisol Jiménez / Korhan Erel / Adam Pultz Melbye. Berlin, Germany.
@@ -75,6 +82,8 @@
     - **11/05**. Con Luigi, MHL Großer Saal. Performing of L. Nono’s “Con Luigi Dallapiccola”, electronics.
 - **01/2024** - Werkstatt für Aktuelle Musik. Lübeck, Germany. Performing of "blutroter Sonnenuntergang und unheimliche Stille" for accordion, "all is stable in the swamp" for live-electronics, presentation of audiovisual installation "tanz mal, ich komme bald"
     - Performers: Margit Kern (accordion), Louis Goldford and Nicola Hein (electronics).
+</details>
+<details><summary>2021-2023</summary>
 - **12/2023** - Premiere of “Direct speech” for piano, 2 violins, viola, cello, double bass and electronics.
    <!--- - Performers: Mikhail Dubov (piano), Evgeniy Subbotin (1st violin), Sergey Boyko (2nd violin), Gleb Khokhlov (viola), Olga Demina (cello), Natalia Tsurko (double bass), Marat Bariev (sound engineer). Festival “Russian Music 2.0” by Aksenov Family Foundation. Moscow, Russia. --->
 - **02/2023** - Lund Contemporary Festival. Lund, Sweden. Performing of "Half of the cat"
@@ -101,3 +110,4 @@
     Mehdi Hosseini.
 - **02/2021 and 02/2022** - Young Composers Academy of "Winter Art Festival", Sochi, Russia. Participant.
     - Studied with Oscar Bianchi, Patrick De Clerck, Valery Voronov, Alexey Syumak
+</details>

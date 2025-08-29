@@ -40,7 +40,7 @@ I try to imagine the fragility, purity, and loveliness of a musical tone. I perc
 - **Performed by:** Lund Contemporary Festival (Sweden), Bashmet Youth Symphony Orchestra, Studio for New Music Ensemble, Moscow Contemporary Music Ensemble, Ensemble of Russian folk instruments "Russia”, soloists of Musica Aeterna, musicians of Lübeck Philharmonic Orchestra
 - My anti-war installation [**“Nursery”**](https://youtu.be/kzFQqdl6KeU) was presented in “GROUND Solyanka” Gallery in Moscow
 - **Winner:** Lübecker Kompositionswettbewerb, Possehlpreis Open Space (1st prize), International Competition/Laboratory "Open Space" (Grand Prix), MCME Call for Scores, Musica Aeterna soloists Call for scores, [Score Follower Call for scores](https://youtu.be/pYCu6mCMjS0?si=rD4_0kzWmsfprVUu).
-- **Scholarships:** DAAD-Stipendium (2024-2025), Stibet I (2024), Scholarship of Moscow Composer's Union (2022 & 2023). 
+- **Scholarships:** DAAD-Stipendium (2024-2026), Stibet I (2024), Scholarship of Moscow Composer's Union (2022 & 2023). 
 
 ---
 
@@ -76,8 +76,11 @@ I try to imagine the fragility, purity, and loveliness of a musical tone. I perc
 
 ## Work experience
 
+- **08/2025 - now**
+    - Assistant by the Hybrid AI Department.
+    - Institute for Software Engineering and Programming Languages, Universität zu Lübeck, Germany
 - **04/2024 - now**
-    - Assistant by the composition department and technical assistan by the electronic studio
+    - Assistant by the Composition Department and technical assistant by the Electronic Studio
     - Musikhochschule Lübeck, Germany
 - **10/2022 - 02/2024**
     - Tutor and Music Teacher
