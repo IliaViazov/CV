@@ -8,8 +8,7 @@
 
 ### Archive
 
-<details>
-<summary>2025</summary>
+#### 2025
 
 - **08/2025** — tech.festival 2025. Lübeck, Germany
     - Assistance by organizing and conducting the workshops
@@ -50,10 +49,7 @@
     - **10/01-11/01** — Performance of "external operator" for 3 performers with electronics.
     - Performers: Ilia Viazov, Paulina Andrzejak, Diego Alejandro Morales Castillo.
 
-</details>
-
-<details>
-<summary>2024</summary>
+#### 2024
 
 - **12/2024** — KOMMAS Ensemble. Leipzig, Germany.
     - **10/12** — Technical assistance by the performance.
@@ -92,15 +88,15 @@
 - **01/2024** - Werkstatt für Aktuelle Musik. Lübeck, Germany. Performing of "blutroter Sonnenuntergang und unheimliche Stille" for accordion, "all is stable in the swamp" for live-electronics, presentation of audiovisual installation "tanz mal, ich komme bald"
     - Performers: Margit Kern (accordion), Louis Goldford and Nicola Hein (electronics).
 
-</details>
-
-<details>
-<summary>2021-2023</summary>
+#### 2023
 
 - **12/2023** - Premiere of “Direct speech” for piano, 2 violins, viola, cello, double bass and electronics.
    <!--- - Performers: Mikhail Dubov (piano), Evgeniy Subbotin (1st violin), Sergey Boyko (2nd violin), Gleb Khokhlov (viola), Olga Demina (cello), Natalia Tsurko (double bass), Marat Bariev (sound engineer). Festival “Russian Music 2.0” by Aksenov Family Foundation. Moscow, Russia. --->
 - **02/2023** - Lund Contemporary Festival. Lund, Sweden. Performing of "Half of the cat"
     - Performers: Anna Jalving (violin), Alessandro Perini (electronics)
+
+#### 2022
+
 - **08/2022** - International Young Composers Academy, Thaikovsky, Russia. Participant.
     - Studied with Katharina Rosenberger, Pierre Jodlowski, Valery Voronov, Dmitri Kourliandski,
     Alexander Radvilovich, Vladimir Rannev, Olga Bochikhina
@@ -118,10 +114,13 @@
 - **04/2022** - Reading-session of MCME. Moscow, Russia. Participant.
     - Studied with Vladimir Gorlinsky, Nikolay Popov, Anton Tanonov.
     - "Half of the cat" for violin, electronics and video.
+- **02/2022** - Young Composers Academy of "Winter Art Festival", Sochi, Russia. Participant.
+    - Studied with Oscar Bianchi, Patrick De Clerck, Valery Voronov, Alexey Syumak
+
+#### 2021
+
 - **08/2021** - International Young Composers Academy, Thaikovsky, Russia. Participant.
     - Studied with Blaise Ubaldini, Rainer Rubbert, Alexander Khubeev, Anton Svetlichniy,
     Mehdi Hosseini.
-- **02/2021 and 02/2022** - Young Composers Academy of "Winter Art Festival", Sochi, Russia. Participant.
+- **02/2021** - Young Composers Academy of "Winter Art Festival", Sochi, Russia. Participant.
     - Studied with Oscar Bianchi, Patrick De Clerck, Valery Voronov, Alexey Syumak
-    
-</details>
