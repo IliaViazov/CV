@@ -45,6 +45,8 @@
   - Video (rev. 2024), soon
 
 ### Pure electronics and installations
+- [Die Fraktur der Frakturen]()
+  - Web-based interactive installation
 - Tuberose (2024) — Audio installation
   - documentation soon
 - project “tapeworms” (*2024)
@@ -71,10 +73,9 @@
   - [Video](https://youtu.be/RwIELnvTMyw)
 
 ### Websites, utilities, programs
-- [Die Fraktur der Frakturen]()
-  - Web-based interactive installation
 - [Spectral Colors](iliaviazov.github.io/spectral-colors).
   - Website for experiencing and investigating timbres of different instruments.
 - [Oscilloscope Abstraction]().
   - Github soon.
 - [Vocal Formant Filter VST](https://github.com/IliaViazov/Vocal-Formant-Filter/tree/main)
+- [Tidal-Nano](https://github.com/IliaViazov/tidal-nano)
