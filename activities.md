@@ -3,7 +3,7 @@
 ## Current and upcoming
 <!--MUK, Katharina meehrgesange,  -->
 - **19-21/10/2025** — [Music with Microcontrollers](https://dlc.sh/lernangebot/614), 3-day workshop. DLC, Lübeck, Germany.
-- **undefined/11/2025** — Web-installation "Die Fraktur der Frakturen". PlatformB, Stuttgart, Germany.
+- **undef/11/2025** — Web-installation "Die Fraktur der Frakturen". PlatformB, Stuttgart, Germany.
 - **03/11/2025** — Akademsischer Abend 2025. Performance-presentation of artistic research program at MHL. MUK, Lübeck, Germany.
     - Performers: Ilia Viazov (neural netwrok resynthesis), Heathcliffe Auchinachie (e-guitar), Benjamin Sprick (philosophy).
 - **06/11/2025** — Terje Vigen, Silent Film with Live Music from the students of Musikhochschule. KOLK 17, Lübeck, Germany.
