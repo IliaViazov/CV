@@ -15,6 +15,7 @@
 - **10/2025** — JUMU Open, Competition for young musicians. Aula der Volkshochschule, Schwerin, Germany
     - **17/10** — Performance of "Guts" for saxophone quintet (3A-2B) and live electronics. 
     - Performers: Ensemble "Passion du Saxophone" of Lübecker Musikschule der Gemeinnützigen (Max-Johannes Thorns, Theodor Suhan Nabers, Jasper Gutzeit, Magnus Zilian, Daniela Melikhova), a/d Lilija Russanowa.
+- **09-12/10/2025** — "Spatial Audio Currents", participation in the conference. HfK, Bremen, Germany.
 - **09/2025** — "Syntaxlos", aka "external operator". Schuppen 6, Lübeck, Germany
     - **19/09** — Performers: Ilia Viazov, Paulina Andrzejak, Diego Alejandro Morales Castillo.
 - **09/2025** — Selbstgebaute Musik Festival. Holzmarkt, Berlin, Germany.
