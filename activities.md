@@ -1,19 +1,34 @@
 ## Activities
 
 ### Current and upcoming
-- **19/09/2025** — "external operator". Shuppen 6, Lübeck, Germany. 
-- **18/08/2025** — Impro techno set. Solizentrum, Lübeck, Germany.
-- **14/08/2025** — Haus Eden, Lübeck, Germany. Performance of "external operator" for 3 performers.
-- **06/09/2025** — Ars Electronica. Linz, Austria. Performance of "external operator" for 3 performers.
+<!--MUK, Katharina meehrgesange,  -->
+- **19-21/10/2025** — [Music with Microcontrollers](https://dlc.sh/lernangebot/614), 3-day workshop. DLC, Lübeck, Germany.
+- **undefined/11/2025** — Web-installation "Die Fraktur der Frakturen". PlatformB, Stuttgart, Germany.
+- **06/11/2025** — Terje Vigen, Silent Film with Live Music from the students of Musikhochschule. KOLK 17, Lübeck, Germany.
+    - Performers: Ilia Viazov (feedback-recorder), Patrycja Olszewska (synths), Franz Danksagmüller (electronics).
 
 ### Archive
 
 #### 2025
-
+— **30-31/10/2025** — "Time to Listen 2025", participation in the conference. Akademie der Künste, Berlin, Germany.
+- **23/10/2025 and 29/10/2025** — Workshop ["Music with Microcontrollers für Kinder"](https://www.ferienpass-luebeck.de/herbst/7303-musik-mit-mikrocontrollern-bbc-microbits). DLC, Lübeck, Germany.
+- **10/2025** — JUMU Open, Competition for young musicians. Aula der Volkshochschule, Schwerin, Germany
+    - **17/10** — Performance of "Guts" for saxophone quintet (3A-2B) and live electronics. 
+    - Performers: Ensemble "Passion du Saxophone" of Lübecker Musikschule der Gemeinnützigen (Max-Johannes Thorns, Theodor Suhan Nabers, Jasper Gutzeit, Magnus Zilian, Daniela Melikhova), a/d Lilija Russanowa.
+- **09/2025** — "Syntaxlos", aka "external operator". Schuppen 6, Lübeck, Germany
+    - **19/09** — Performers: Ilia Viazov, Paulina Andrzejak, Diego Alejandro Morales Castillo.
+- **09/2025** — Selbstgebaute Musik Festival. Holzmarkt, Berlin, Germany.
+    - **14/09** — Technical assistance by the installation of Marisol Jimenez.
+- **09/2025** — "external operator". Ars Electronica, Gleishalle, Linz, Austria.
+    - **06/09** — Performers: Ilia Viazov, Paulina Andrzejak, Diego Alejandro Morales Castillo.
 - **08/2025** — tech.festival 2025. Lübeck, Germany
     - Assistance by organizing and conducting the workshops
     - **26/08**. Programmier Dein Instrument.
     - **27/08**. KI Macht Musik.
+- **08/2025** — Hyp3r $umm3r D!sc0. Solizentrum, Lübeck, Germany
+    - **18/08** — "Babushka sings" with feedback recorder and recordings of russian folklore singing. Live-coding session.
+- **08/2025** — "Syntaxlos", aka "external operator". Haus Eden, Lübeck, Germany.
+    - **14/08** — Performers: Ilia Viazov, Paulina Andrzejak, Diego Alejandro Morales Castillo.
 - **07/2025-08/2025** — Darmstadt Ferienkurse. Darmstadt, Germany.
     - Participation in the workshop for flute and percussion as a composer by curating of Marcos Belter. 
         - 104-11B for flute, percussion and electronics
@@ -25,8 +40,12 @@
     - Lessons with: Aaron Nahum-Holloway, Sarah Nemtsov, George Lewis.
 - **07/2025** — Workshop ["Music with Microcontrollers"](https://dlc.sh/lernangebot/614). DLC, Lübeck, Germany.
     - **15-17/07**. Three day version of the worskhop.
+- **12/07/2025** — Performance of Viola Yip on "Heroines of Sound". Radialsystem, Berlin, Germany.
+    - Technical assistance by the performance.
 - **04/07/2025** — Concert "What artists do all the time", presentation of the Artistic Research course. 
     - Presentation on "Interface Design and what a composer has to do with that". MHL, Kammermusiksaal, Lübeck, Germany.
+- **29/06/2025** — "Kontakte" festival. "Sonic encounters" concert. Akademie der Künste, Berlin Germany.
+    - Technical assistance by the performance of Marisol Jimenez.
 - **06/06/2025** — Klassenabend Komposition and Sound Arts and Creative Music Technology. MHL, Großer Saal, Lübeck, Germany.
     - Performance of "Petros" for stones with applification, "zameret'" for organ by myself.
     - Performance as a part of Live-Coding Ensemble, Instrument Builders Ensemble.
