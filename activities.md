@@ -13,7 +13,7 @@
 — **30-31/10/2025** — "Time to Listen 2025", participation in the conference. Akademie der Künste, Berlin, Germany.
 - **23/10/2025 and 29/10/2025** — Workshop ["Music with Microcontrollers für Kinder"](https://www.ferienpass-luebeck.de/herbst/7303-musik-mit-mikrocontrollern-bbc-microbits). DLC, Lübeck, Germany.
 - **10/2025** — JUMU Open, Competition for young musicians. Aula der Volkshochschule, Schwerin, Germany
-    - **17/10** — Performance of "Guts" for saxophone quintet (3A-2B) and live electronics. 
+    - **17/10** — Performance of "Guts" for saxophone quintet (3A-2B) and audio-visual machine agent. 
     - Performers: Ensemble "Passion du Saxophone" of Lübecker Musikschule der Gemeinnützigen (Max-Johannes Thorns, Theodor Suhan Nabers, Jasper Gutzeit, Magnus Zilian, Daniela Melikhova), a/d Lilija Russanowa.
 - **09-12/10/2025** — "Spatial Audio Currents", participation in the conference. HfK, Bremen, Germany.
 - **09/2025** — "Syntaxlos", aka "external operator". Schuppen 6, Lübeck, Germany
@@ -50,7 +50,7 @@
 - **06/06/2025** — Klassenabend Komposition and Sound Arts and Creative Music Technology. MHL, Großer Saal, Lübeck, Germany.
     - Performance of "Petros" for stones with applification, "zameret'" for organ by myself.
     - Performance as a part of Live-Coding Ensemble, Instrument Builders Ensemble.
-- **11/05/2025** — Jugend musiziert Preisträger*innen-Konzerte 2025. Performance of "Guts" for saxophone quintet (3A-2B) and live electronics. 
+- **11/05/2025** — Jugend musiziert Preisträger*innen-Konzerte 2025. Performance of "Guts" for saxophone quintet (3A-2B) and audio-visual machine agent. 
     - Performers: Ensemble "Passion du Saxophone" of Lübecker Musikschule der Gemeinnützigen (Max-Johannes Thorns, Theodor Suhan Nabers, Jasper Gutzeit, Magnus Zilian, Daniela Melikhova),
 - **05/2025** — Brahms-Festival.
     - **07/05** — Concert "La Danse". Performance of "a little tremulously" for clarinet, violin and cello in a new revision. Lübeck, Germany. 
@@ -58,7 +58,7 @@
 - **23/04/2025** — Workshop ["Music with Microcontrollers für Kinder"](https://dlc.sh/lernangebot/717). DLC, Lübeck, Germany.
 - **15/04/2025** — Performance of "stop. again" for Decoder Ensemble. MHL, Lübeck, Germany.
 - **03/2025** — JUMU Open, Competition for young musicians. Hochschule für Musik und Theater, Hamburg, Germany
-    - **30/03** — Performance of "Guts" for saxophone quintet (3A-2B) and live electronics. 
+    - **30/03** — Performance of "Guts" for saxophone quintet (3A-2B) and audio-visual machine agent. 
     - Performers: Ensemble "Passion du Saxophone" of Lübecker Musikschule der Gemeinnützigen (Max-Johannes Thorns, Theodor Suhan Nabers, Jasper Gutzeit, Magnus Zilian, Daniela Melikhova), a/d Lilija Russanowa.
 - **03/2025** — Workshop ["Music with Microcontrollers"](https://dlc.sh/lernangebot/614). Digital Learning Campus, Lübeck, Germany.
     - **26/03** — Workshop about developing musical interfaces and instruments on the base of Arduino and other microcontrollers, with introduction to the basics of programming in C/C++ and eleictric curcuitry.
