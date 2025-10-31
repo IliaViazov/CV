@@ -1,15 +1,15 @@
-## Activities
+# Activities
 
-### Current and upcoming
+## Current and upcoming
 <!--MUK, Katharina meehrgesange,  -->
 - **19-21/10/2025** — [Music with Microcontrollers](https://dlc.sh/lernangebot/614), 3-day workshop. DLC, Lübeck, Germany.
 - **undefined/11/2025** — Web-installation "Die Fraktur der Frakturen". PlatformB, Stuttgart, Germany.
 - **06/11/2025** — Terje Vigen, Silent Film with Live Music from the students of Musikhochschule. KOLK 17, Lübeck, Germany.
     - Performers: Ilia Viazov (feedback-recorder), Patrycja Olszewska (synths), Franz Danksagmüller (electronics).
 
-### Archive
+## Archive
 
-#### 2025
+### 2025
 - **30-31/10/2025** — "Time to Listen 2025", participation in the conference. Akademie der Künste, Berlin, Germany.
 - **23/10/2025 and 29/10/2025** — Workshop ["Music with Microcontrollers für Kinder"](https://www.ferienpass-luebeck.de/herbst/7303-musik-mit-mikrocontrollern-bbc-microbits). DLC, Lübeck, Germany.
 - **10/2025** — JUMU Open, Competition for young musicians. Aula der Volkshochschule, Schwerin, Germany
@@ -69,7 +69,7 @@
     - **10/01-11/01** — Performance of "external operator" for 3 performers with electronics.
     - Performers: Ilia Viazov, Paulina Andrzejak, Diego Alejandro Morales Castillo.
 
-#### 2024
+### 2024
 
 - **12/2024** — KOMMAS Ensemble. Leipzig, Germany.
     - **10/12** — Technical assistance by the performance.
@@ -108,14 +108,14 @@
 - **01/2024** - Werkstatt für Aktuelle Musik. Lübeck, Germany. Performing of "blutroter Sonnenuntergang und unheimliche Stille" for accordion, "all is stable in the swamp" for live-electronics, presentation of audiovisual installation "tanz mal, ich komme bald"
     - Performers: Margit Kern (accordion), Louis Goldford and Nicola Hein (electronics).
 
-#### 2023
+### 2023
 
 - **12/2023** - Premiere of “Direct speech” for piano, 2 violins, viola, cello, double bass and electronics.
    <!--- - Performers: Mikhail Dubov (piano), Evgeniy Subbotin (1st violin), Sergey Boyko (2nd violin), Gleb Khokhlov (viola), Olga Demina (cello), Natalia Tsurko (double bass), Marat Bariev (sound engineer). Festival “Russian Music 2.0” by Aksenov Family Foundation. Moscow, Russia. --->
 - **02/2023** - Lund Contemporary Festival. Lund, Sweden. Performing of "Half of the cat"
     - Performers: Anna Jalving (violin), Alessandro Perini (electronics)
 
-#### 2022
+### 2022
 
 - **08/2022** - International Young Composers Academy, Thaikovsky, Russia. Participant.
     - Studied with Katharina Rosenberger, Pierre Jodlowski, Valery Voronov, Dmitri Kourliandski,
@@ -137,7 +137,7 @@
 - **02/2022** - Young Composers Academy of "Winter Art Festival", Sochi, Russia. Participant.
     - Studied with Oscar Bianchi, Patrick De Clerck, Valery Voronov, Alexey Syumak
 
-#### 2021
+### 2021
 
 - **08/2021** - International Young Composers Academy, Thaikovsky, Russia. Participant.
     - Studied with Blaise Ubaldini, Rainer Rubbert, Alexander Khubeev, Anton Svetlichniy,
