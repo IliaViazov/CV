@@ -10,7 +10,7 @@
 ### Archive
 
 #### 2025
-— **30-31/10/2025** — "Time to Listen 2025", participation in the conference. Akademie der Künste, Berlin, Germany.
+- **30-31/10/2025** — "Time to Listen 2025", participation in the conference. Akademie der Künste, Berlin, Germany.
 - **23/10/2025 and 29/10/2025** — Workshop ["Music with Microcontrollers für Kinder"](https://www.ferienpass-luebeck.de/herbst/7303-musik-mit-mikrocontrollern-bbc-microbits). DLC, Lübeck, Germany.
 - **10/2025** — JUMU Open, Competition for young musicians. Aula der Volkshochschule, Schwerin, Germany
     - **17/10** — Performance of "Guts" for saxophone quintet (3A-2B) and audio-visual machine agent. 
