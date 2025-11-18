@@ -26,7 +26,7 @@
   - [Video](https://youtu.be/bBbLD4vVJjQ)
 
 ### Instruments with electronics/multimedia
-- 106-11B (2025) — flutes, percussion, electronics.
+- 104-11B (2025) — flutes, percussion, electronics.
   - documentation soon.
 - guts (2025) — saxophone quintet (3S-2B), electronics and light
   - documentation soon.
