@@ -29,15 +29,9 @@ Since the actions of the Russian government and the war with Ukraine, I was forc
 
 Then I moved to Germany in 2024 and continued my Bachelor Studies in Musikhochschule Lübeck, where I'm also working as an assistant by the composition department and a technical assistant by the electronic studio.
 
-<!-- ## Artistic statement
-
-Usually, in the vast majority of my works, I try to express interpretations and conclusions of my life experience. I should be honest, that I’m fairly sensitive and emotional person, that reflex and recycle these feelings inside of me, which fact, of course, affects on my art. That’s why, most of them are sensed very often a little romantic style. But also it’s a reason of choosing some themes of my works. I try to be honest and true with me and my audience and to avoid any sense of lie and unfair in a musical expression and appearance, which sometimes gives me a result of “non-contemporary” sound.
-
-I try to imagine the fragility, purity, and loveliness of a musical tone. I perceive it like something in the space of matter, but very subtle and difficult to reach. For me the sound has own structure, texture, color, position, and fluidity. This fragility of the sound leads me to the process of very careful working with it, every time trying to not change anything, if it’s possible. Anyway, it doesn’t mean that I don’t transform sound at all. Sometimes my investigation to the sound produce some result of “natural” alternative and contrast. Inside the sound you can find not only its zoomed perspective, but also a mirror and a negative. “Simplicity” of your work methods is the key to interesting results and inartificial complexity. -->
-
 ## Honors
 
-- **Performed by:** Lund Contemporary Festival (Sweden), Bashmet Youth Symphony Orchestra, Studio for New Music Ensemble, Moscow Contemporary Music Ensemble, Ensemble of Russian folk instruments "Russia”, soloists of Musica Aeterna, musicians of Lübeck Philharmonic Orchestra
+- **Performed on:** Ars Electronica 2025, Brahmsfestival Lübeck 2025, Darmstädter Ferienkurse 2025,Lund Contemporary Festival (Sweden), Bashmet Youth Symphony Orchestra, Studio for New Music Ensemble, Moscow Contemporary Music Ensemble, Ensemble of Russian folk instruments "Russia”, soloists of Musica Aeterna, musicians of Lübeck Philharmonic Orchestra
 - My anti-war installation [**“Nursery”**](https://youtu.be/kzFQqdl6KeU) was presented in “GROUND Solyanka” Gallery in Moscow
 - **Winner:** Lübecker Kompositionswettbewerb, Possehlpreis Open Space (1st prize), International Competition/Laboratory "Open Space" (Grand Prix), MCME Call for Scores, Musica Aeterna soloists Call for scores, [Score Follower Call for scores](https://youtu.be/pYCu6mCMjS0?si=rD4_0kzWmsfprVUu).
 - **Scholarships:** DAAD-Stipendium (2024-2026), Stibet I (2024), Scholarship of Moscow Composer's Union (2022 & 2023). 
@@ -62,7 +56,7 @@ I try to imagine the fragility, purity, and loveliness of a musical tone. I perc
 
 - **04/2024 - aktuell** - Musikhochshule Lübeck, Deutschland. Komposition und Elektronische Musik (Bachelor).
     - **Composition —** Milica, Djordjevic, Marisol Jiménez Becerra, Nicola Hein
-    - **Electroacoustics —** Nicola Hein, Louis Goldford
+    - **Electroacoustics —** Nicola Hein, Kris Kuldkepp, Louis Goldford
 - **10/2023 - 03/2024** - Musikhochshule Lübeck, Deutschland. Komposition (Kontaktstudium).
     - **Composition**— Katharina Rosenberger
     - **Electroacoustics**— Nicola Hein, Louis Goldford
